@@ -16,11 +16,12 @@ If you use this code for your research, please cite our work:
 ```
 
 ## Requirements
-- Keras==2.1.4
-- pandas==0.17.1
-- tensorflow==1.14.0
-- numpy==1.16.2
-
+```
+Keras==2.1.4
+pandas==0.17.1
+tensorflow==1.14.0
+numpy==1.16.2
+```
 
 ## Dataset Preprocessing
 download [NYC-TOD](https://www.dropbox.com/s/ft4i0i0bysoox55/NYC-TOD.tar.gz?dl=0/) and put it into folder  ```NYC-TOD/```.
