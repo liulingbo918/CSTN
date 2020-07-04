@@ -24,8 +24,9 @@ numpy==1.16.2
 ```
 
 ## Dataset Preprocessing
-download [NYC-TOD](https://www.dropbox.com/s/ft4i0i0bysoox55/NYC-TOD.tar.gz?dl=0/) and put it into folder  ```NYC-TOD/```.
-
+download NYC-TOD.tar.gz with following links and put it into folder  ```NYC-TOD/```.
+- [Dropbox](https://www.dropbox.com/s/ft4i0i0bysoox55/NYC-TOD.tar.gz?dl=0/)
+- [BaiduYun, password：j7ok](https://pan.baidu.com/s/1BiBYsgbfng83xK-D3wIbCw)
 
 ## Training and Testing
 ```bash
